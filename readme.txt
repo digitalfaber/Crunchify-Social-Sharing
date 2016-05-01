@@ -26,6 +26,9 @@ We can’t imagine a site without Social Sharing buttons. It’s must and absolu
 
 Subscribe to <a href="https://twitter.com/Crunchify">Twitter</a> and <a href="https://facebook.com/Crunchify">Facebook</a> to get **latest update**.
 
+> <strong>Bug Reports and Contribution</strong><br><br>
+> Bug reports for Crunchify Social Sharing are [welcomed on GitHub](https://github.com/Crunchify/Crunchify-Social-Sharing). Please note GitHub is _not_ a support forum and issues that aren't properly qualified as bugs will be closed.
+
 [Checkout Screenshots](https://wordpress.org/plugins/crunchify-social-sharing/screenshots) | 
 [Contribute & Report any problem on homepage](http://crunchify.com/crunchify-social-sharing/)
 
