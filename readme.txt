@@ -3,8 +3,8 @@ Contributors: Crunchify
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8ZF6WATLYFELQ
 Tags: Facebook, Facebook Like, Facebook Share, Email Share, Like, Share Buttons, Share Links, Sharebar, Social Buttons, social media share, social network share, social share, Social Sharing, Twitter, Twitter Sharing, Facebook Sharing, Social Sharing Buttons, Pinterest Sharing, Google Plus Sharing, Buffer Sharing
 Requires at least: 4.2
-Tested up to: 4.5
-Stable tag: 1.3
+Tested up to: 4.5.2
+Stable tag: 1.4
 
 Fastest & Simplest Social Sharing Button without any Java Script Loading - WordPress Speed Optimization Goal.
 
@@ -28,6 +28,7 @@ Subscribe to <a href="https://twitter.com/Crunchify">Twitter</a> and <a href="ht
 
 > <strong>Bug Reports and Contribution</strong><br><br>
 > Bug reports for Crunchify Social Sharing are [welcomed on GitHub](https://github.com/Crunchify/Crunchify-Social-Sharing). Please note GitHub is _not_ a support forum and issues that aren't properly qualified as bugs will be closed.
+
 
 [Checkout Screenshots](https://wordpress.org/plugins/crunchify-social-sharing/screenshots) | 
 [Contribute & Report any problem on homepage](http://crunchify.com/crunchify-social-sharing/)
@@ -67,6 +68,9 @@ Subscribe to <a href="https://twitter.com/Crunchify">Twitter</a> and <a href="ht
 3. Admin panel - custom settings option
 
 == Changelog ==
+
+= 1.4 =
+* CSS fix for broken button on home page. Props: <a href="http://crunchify.com/how-to-create-social-sharing-button-without-any-plugin-and-script-loading-wordpress-speed-optimization-goal/#comment-2689006926">Kevin</a>
 
 = 1.3 =
 * rel="nofollow" option added for links

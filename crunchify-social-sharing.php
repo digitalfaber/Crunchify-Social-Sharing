@@ -3,7 +3,7 @@
 Plugin Name: Crunchify Social Sharing
 Plugin URI: http://crunchify.com/crunchify-social-sharing/
 Description: Fastest & Simplest Social Sharing Button without any Script Loading - WordPress Speed Optimization Goal.
-Version: 1.3
+Version: 1.4
 Author: Crunchify
 Author URI: http://crunchify.com
 Text Domain: crunchify-social-sharing
