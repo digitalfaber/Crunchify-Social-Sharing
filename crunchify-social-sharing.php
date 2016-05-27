@@ -167,7 +167,7 @@ function add_crunchify_social_sharing_buttons($content) {
         }
         $content .= '<!-- Social Sharing Buttons Plugin - END-->';
 
-		$content .= '</div><div style="clear:both">';
+		$content .= '</div><div style="clear:both"></div>';
 		return $content;
 };
 
